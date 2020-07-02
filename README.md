@@ -2,7 +2,7 @@
 <h1 align="center">Sandwich</h1></br>
 
 <p align="center"> 
-🥪 A lightweight Android network response API for handling data and error response with <br>transformation extensions using Retrofit.
+🥪 轻量级的Android网络响应API，用于处理数据和错误响应使用Retrofit进行转换扩展.
 </p>
 </br>
 
